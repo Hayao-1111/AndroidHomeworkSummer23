@@ -19,7 +19,9 @@
 
 ## 体验单人跳棋游戏
 
-本项目打包形成`apk`安装包，见[Peg_solitaire.apk](./release/Peg_solitaire.apk)，或本项目的Github Release.
+本项目打包形成`apk`安装包，见[Peg_solitaire.apk](./release/Peg_solitaire.apk)，或本项目的Github Release。
+
+本项目在华为手机`HarmonyOS 3.0`系统测试无误。若存在问题，可通过本项目的Issue进行反馈。
 
 ## 作业完成情况
 
